@@ -1,4 +1,4 @@
-# Projeto de Detecção de Objetos com YOLO
+# Sistema de Vigilância Baseado em IA para Prevenção de Crimes com Armas e Disfarces
 
 Este repositório contém os resultados de treinamento dos modelos **YOLOv8, YOLOv9 e YOLOv10** e o script principal para **detecção de objetos em vídeo**. O dataset completo não está incluído no repositório e pode ser baixado através do Google Drive.
 
