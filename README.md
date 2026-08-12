@@ -4,6 +4,8 @@
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8%2Fv9%2Fv10-00FFFF?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+🔗 **[Testar a demo ao vivo no navegador](https://eltonbarbosaa.github.io/demos/yolo/)** — sem instalar nada, roda 100% client-side.
+
 Trabalho de Conclusão de Curso (TCC) em visão computacional aplicada à segurança: detecção automática de **armas e disfarces** em vídeo, comparando três versões da arquitetura **YOLO** (v8, v9 e v10) treinadas no mesmo dataset.
 
 Este repositório contém os resultados do treinamento dos três modelos e o script principal de **detecção de objetos em vídeo**. O dataset completo não está incluído (por tamanho) e pode ser baixado via Google Drive — ver `links_dataset.txt`.
