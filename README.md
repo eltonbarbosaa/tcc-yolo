@@ -12,6 +12,22 @@ Este repositório contém os resultados do treinamento dos três modelos e o scr
 
 Comparar, sob as mesmas condições de dataset e data augmentation, a precisão e o comportamento de **YOLOv8**, **YOLOv9** e **YOLOv10** na detecção de objetos relevantes à segurança (armas e disfarces), avaliando qual arquitetura entrega o melhor equilíbrio entre precisão e desempenho.
 
+## Resultados (YOLOv8)
+
+Predições do modelo em imagens de validação — bounding boxes geradas automaticamente:
+
+![Predições em validação](results/yolov8/val_batch0_pred.jpg)
+
+Matriz de confusão do treinamento:
+
+![Matriz de confusão](results/yolov8/confusion_matrix.png)
+
+Curvas de métricas (precisão, recall, mAP) ao longo do treinamento:
+
+![Curvas de treinamento](results/yolov8/results.png)
+
+> As mesmas métricas para YOLOv9 e YOLOv10 estão em `results/yolov9/` e `results/yolov10/`.
+
 ## Estrutura do Repositório
 
 ```
